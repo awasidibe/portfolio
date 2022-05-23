@@ -1,0 +1,136 @@
+body{
+    background: rgb(21, 178, 199);
+    font-family: Arial, Helvetica, sans-serif;
+}
+div#bloq1{
+    background: rgb(255, 124, 2);
+    color: #fff;
+    width: 65%;
+    height: 500px;
+    margin: 5% ;
+    margin-left: 18%; 
+    box-shadow: 10px 10px 30px 10px rgb(114, 112, 112);
+}  
+#available{
+    margin-left: -10%; 
+    font-size: smaller; 
+    
+} 
+#dispo{
+    background-color: rgb(170, 169, 169);
+    width: 40%; 
+    color: black 
+
+}
+#bloq2{ 
+    padding: 10%;
+    line-height: 30px;
+    padding-top: 20%; 
+    margin-top: -18%;
+}
+img{
+    height: 25px;
+    background-color: rgb(255, 124, 2); 
+    
+} 
+h5{
+    margin-left: -5%;
+    font-size: 8px;
+}   
+#linkedin{
+    padding-left:5%;
+}
+#gmail{
+    padding-left: 3%;
+
+}
+#réseau{
+    height: 10px;
+} 
+#bloq3{
+    background: rgb(52, 109, 87);
+    width: 35%;
+    height:150px ;
+    margin-left: 580px;
+    margin-top: -540px; 
+    color: #fff; 
+    font-size: larger;
+} 
+#moi{
+    width: 65%; 
+    padding-top: 5%;
+    padding-left: 5%; 
+    font-family: Arial, Helvetica, sans-serif;
+} 
+#awa{
+    color: rgb(253, 111, 92);
+    font-size: larger;
+} 
+#about{
+    font-size: small;
+    padding-left: 10%;
+} 
+#num{
+    background: rgb(250, 0, 0); 
+}
+#bloq4{
+    background: rgb(226, 246, 248);
+    width: 35%;
+    margin-left: 580px;
+    height: 315px;
+    margin-top: -14px;
+    text-align: center;
+} 
+#photo{
+    height: 50%; 
+    margin-top: 20%;
+    margin-left: -40%;
+} 
+#figma{
+     font-size: 8px;
+     width: 25%; 
+     margin-top: -50% ; 
+     margin-left: 8%;
+     background-color: rgb(226, 246, 248);
+} 
+#visual{
+    font-size: 8px;
+    width: 25% ; 
+    margin-left: 38%; 
+    margin-top: -10.5%; 
+} 
+#dessinvi{
+    text-align: center;
+    background-color: rgb(226, 246, 248);
+} 
+#list1{
+    list-style: square;
+}
+#SEO{
+    font-size: 8px;
+    width: 25%; 
+    margin-left: 290px;
+    margin-top: -10.5%;
+} 
+#personnel{
+    width: 18%; 
+    margin-left:62%;
+    margin-top: -15%; 
+    height: 158px;
+} 
+#mylife{
+    font-size: small;
+    line-height: 200%; 
+    list-style: circle;
+} 
+#formation{
+    width: 38%; 
+    color: black; 
+    font-size: 22px; 
+} 
+#bloq0{
+    padding-top: 0.5px;
+    margin-left: 5%; 
+    line-height: none; 
+    font-size: small;
+}
